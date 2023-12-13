@@ -1,1 +1,1 @@
-# System login page sample
+# System login page
